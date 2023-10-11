@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # File path
-file_path = r'C:\Users\Shahab Kabiri\Desktop\GAResults2.xlsx'
+file_path = r'GAResults2.xlsx'
 
 # Read Excel file into a dataframe
 df = pd.read_excel(file_path)
